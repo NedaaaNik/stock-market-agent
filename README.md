@@ -36,7 +36,7 @@ An intelligent AI Agent that provides real-time stock market data and company in
 
 &nbsp;   ```bash
 
-&nbsp;   git clone \[https://github.com/NedaaaNik/stock-market-agent.git](https://github.com/NedaaaNik/stock-market-agent.git)
+&nbsp;   git clone \[https://github.com/NedaaaNik/stock-market-agent.git]
 
 &nbsp;   cd stock-market-agent
 
@@ -73,4 +73,5 @@ An intelligent AI Agent that provides real-time stock market data and company in
 &nbsp;   adk web .
 
 &nbsp;   ```
+
 
